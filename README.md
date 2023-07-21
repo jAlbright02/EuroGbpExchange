@@ -15,7 +15,7 @@ Press the 'Convert' button to change the amount into GBP.
 
 ## API
 The API I used was [Fixer.io's](https://fixer.io/).
-Very easy to use, limited requests but free and great for learning
+Very easy to use, limited requests but free and great for learning.
 
 ## Disclaimer
 Not intended for commercial use, the project is entirely educational for me to learn new technologies. 
